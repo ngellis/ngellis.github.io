@@ -5,7 +5,7 @@
     <ul>
       {% for item in menu %}
         <li {% if page.url == item.url %}class="active"{% endif %}>
-          <a href="{{ item.url | prepend: site.baseurl }}">
+          <a href="{{ item.url | prepend: site.baseurl | append: '.html' }}">
             {{ item.title }}
           </a>
         </li>
