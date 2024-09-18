@@ -1,6 +1,5 @@
-- layout: page 
-  title: About
-  url: https://ngellis.github.io/about.html
+- title: About
+  url: /about/
 
 - title: Source
   url: https://github.com/patdryburgh/hitchens
