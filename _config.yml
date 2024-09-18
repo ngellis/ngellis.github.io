@@ -16,7 +16,7 @@
 title: "Nick Ellis"
 email: "ngellis@princeton.alumni.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Screenwriter | Creative Executive"
+  Screenwriter | Creative Executive
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
